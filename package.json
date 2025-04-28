@@ -1,0 +1,30 @@
+{
+  "name": "ttsmaker",
+  "version": "1.0.0",
+  "description": "Text-to-Speech API wrapper for ttsmp3.com",
+  "main": "tts.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "tts",
+    "text-to-speech",
+    "speech",
+    "audio",
+    "voice",
+    "conversion"
+  ],
+  "author": "DeveloperKubilay",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.6.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DeveloperKubilay/TTS_Maker.git"
+  }
+}
