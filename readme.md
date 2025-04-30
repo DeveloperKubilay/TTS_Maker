@@ -29,6 +29,9 @@ async function example() {
 example();
 ```
 
+🎧 [Click here to listen to the audio](https://github.com/DeveloperKubilay/TTS_Maker/raw/refs/heads/main/examples/en.mp3)
+
+
 ## Options
 
 You can specify the voice by passing an options object with the `lang` parameter:
@@ -38,10 +41,6 @@ const options = {
     lang: 'Joanna' // Default is 'Filiz' if not specified
 };
 ```
-
-## License
-
-MIT
 
 ---
 
@@ -76,6 +75,9 @@ async function ornek() {
 ornek();
 ```
 
+🎧 [Buraya tıkla ve sesi dinle](https://github.com/DeveloperKubilay/TTS_Maker/raw/refs/heads/main/examples/tr.mp3)
+
+
 ## Seçenekler
 
 `lang` parametresi ile bir seçenekler nesnesi geçerek sesi belirtebilirsiniz:
@@ -85,7 +87,3 @@ const secenekler = {
     lang: 'Joanna' // Belirtilmezse varsayılan 'Filiz' kullanılır
 };
 ```
-
-## Lisans
-
-MIT
