@@ -1,6 +1,6 @@
 {
   "name": "ttsmaker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Text-to-Speech API wrapper for ttsmp3.com",
   "main": "tts.js",
   "scripts": {
