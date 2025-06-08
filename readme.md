@@ -8,6 +8,8 @@ A simple Text-to-Speech API wrapper for ttsmp3.com that allows you to convert te
 npm install ttsmaker
 ```
 
+🎧 [Click here to listen to the audio](https://github.com/DeveloperKubilay/TTS_Maker/raw/refs/heads/main/examples/en.mp3)
+
 ## Usage
 
 ```javascript
@@ -28,8 +30,6 @@ async function example() {
 
 example();
 ```
-
-🎧 [Click here to listen to the audio](https://github.com/DeveloperKubilay/TTS_Maker/raw/refs/heads/main/examples/en.mp3)
 
 
 ## Options
