@@ -42,7 +42,16 @@ const options = {
 };
 ```
 
+
+## ⚠️ Disclaimer & Legal Notice
+
+- **Unofficial Wrapper:** This project is an independent open-source wrapper and is **not affiliated with, authorized, maintained, or endorsed by** `ttsmp3.com`. All trademarks, service marks, and company names belong to their respective owners.
+- **Educational & Personal Use:** This package is provided strictly for educational, testing, and personal development purposes.
+- **Fair Use:** Users are solely responsible for ensuring fair and responsible use that complies with third-party service terms. Do not use this tool to flood or abuse upstream services.
+- **Limitation of Liability:** The author assumes no responsibility or liability for any misuse or damages resulting from the use of this software.
+
 ---
+
 
 # TTS Maker (Türkçe)
 
@@ -87,3 +96,10 @@ const secenekler = {
     lang: 'Joanna' // Belirtilmezse varsayılan 'Filiz' kullanılır
 };
 ```
+
+## ⚠️ Yasal Uyarı & Sorumluluk Reddi
+
+- **Resmi Olmayan Wrapper:** Bu proje bağımsız ve açık kaynaklı bir kütüphanedir; `ttsmp3.com` ile herhangi bir resmi ortaklığı, sponsorluğu veya bağlantısı **yoktur**. Tüm ticari markalar ve haklar kendi sahiplerine aittir.
+- **Kişisel ve Eğitim Amaçlı:** Bu araç yalnızca kişisel projeler, testler ve eğitim amaçlı geliştirilmiştir.
+- **Kullanıcı Sorumluluğu:** Kullanıcılar ilgili servisin kullanım şartlarına uymakla bizzat yükümlüdür. Servisi aşırı yükleyecek veya kötüye kullanacak şekilde çalıştırmayınız.
+- **Sorumluluk Reddi:** Yazılım olduğu gibi sunulur; geliştirici bu kodun kullanımından doğabilecek hiçbir olumsuzluktan sorumlu tutulamaz.
