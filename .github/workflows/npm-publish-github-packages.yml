@@ -1,12 +1,8 @@
 name: "🚀 release"
 
 on:
-  push:
-    branches:
-      - main 
-  release:
-    types: [published]
-
+  workflow_dispatch:
+    
 jobs:
     release:
         name: 🚀 release
@@ -20,7 +16,7 @@ jobs:
                   node-version: 20
                   registry-url: https://registry.npmjs.org
             - name: 🚀 publish
-              run: npm publish --access public
+              run: rm -rf examples && npm publish --access public
               working-directory: .
               env:
                   NODE_AUTH_TOKEN: ${{secrets.NPM_AUTH_TOKEN}}
